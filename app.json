@@ -1,0 +1,22 @@
+{
+    "name": "ovo",
+    "description": "ovo.",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "facee056-27c1-4390-bbdb-fcf0074aec79"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "64"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://github.com/ENSO2B/nohss",
+    "repository": "https://github.com/ENSO2B/nohss",
+    "stack": "container"
+}
